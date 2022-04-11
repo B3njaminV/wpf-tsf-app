@@ -1,0 +1,133 @@
+﻿<Window x:Class="TSF.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TSF"
+        mc:Ignorable="d"
+            Title="TSF" 
+            BorderThickness="0"
+            WindowStartupLocation="CenterScreen"
+            WindowStyle="None"
+            AllowsTransparency="True"
+            ResizeMode="CanMinimize"
+            Height="800" 
+            Width="1240">
+
+    <DockPanel Background="#1C2F3E">
+
+        <Grid DockPanel.Dock="Top"
+              Height="80"
+              VerticalAlignment="Top"
+              Background="#233C4F">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+
+
+            <Grid Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <Image 
+                        Source="img/logo_tsf.png" 
+                        Width="50"
+                        Margin="5"
+                        Grid.Column="0"
+                        />
+                <TextBlock 
+                            Text="TopSerieFilm" 
+                            FontSize="26" 
+                            FontFamily="open sans condensed"
+                            Grid.Column="1"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"
+                            Foreground="#E0FFFF"
+                            Margin="8"                        
+                            />
+
+            </Grid>
+
+            <Button     
+                Width="40"
+                Grid.Column="2"
+                Background="Transparent"
+                Margin="0,0,20,0"
+                BorderThickness="0"
+                HorizontalAlignment="Right"
+                Style="{DynamicResource CloseBtnStyle}" 
+                Click="Button_Click_Close">
+
+                <Image Source="img/close_icon.png"
+                           Stretch="None">
+                </Image>
+
+            </Button>
+        </Grid>
+
+        <!--Menu de navigation-->
+
+            <StackPanel Width="100"
+                        DockPanel.Dock="Left"
+                        Background="#14212B">
+
+
+                <Button x:Name="Home"
+                        Height="100"
+                        Background="Transparent"
+                        BorderBrush="Transparent"
+                        Margin="0,180,0,20" Style="{DynamicResource HomeBtnStyle}" MouseEnter="Home_MouseEnter" MouseLeave="Home_MouseLeave">
+
+                    <Image Source="img/home_icon.png"
+                           Stretch="None">
+                    </Image>
+
+                </Button>
+
+                <Button x:Name="Profile"
+                        Height="100"
+                        Background="Transparent"
+                        BorderBrush="Transparent"
+                        Margin="0,0,0,10" Style="{DynamicResource ProfileBtnStyle}" MouseEnter="Profile_MouseEnter" MouseLeave="Profile_MouseLeave">
+
+                    <Image Source="img/profile_icon.png"
+                           Stretch="None">
+                    </Image>
+
+                </Button>
+
+                <Button x:Name="Settings"
+                        Height="100"
+                        Background="Transparent"
+                        BorderBrush="Transparent"
+                        Margin="0,10,0,0" Style="{DynamicResource SettingsBtnStyle}" MouseEnter="Settings_MouseEnter" MouseLeave="Settings_MouseLeave">
+
+                    <Image Source="img/settings_icon.png"
+                           Stretch="None">
+                    </Image>
+
+                </Button>
+
+            </StackPanel>
+
+        <DockPanel DockPanel.Dock="Top" Background="#1C2F3E">
+            <ContentControl x:Name="ZoneControl" IsHitTestVisible="True"/>
+        </DockPanel>
+        
+        <Popup x:Name="popup_uc"
+                   AllowsTransparency="True"
+                   HorizontalOffset="10"
+                   VerticalOffset="10">
+
+            <Grid>
+                <local:UserControlMenuPopUp x:Name="Header" Foreground="#E0FFFF"/>
+            </Grid>
+        </Popup>
+        
+    </DockPanel>
+</Window>
