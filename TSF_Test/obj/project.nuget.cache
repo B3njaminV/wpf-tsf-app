@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cmC4xkQMN3VsfTj+sLJntqHyLek0F+QLmkbZ0QoFKWJ8hyn3MUhQF/x37Ne43r+TThIthSvxBCye+0SHU8c6Gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Benja\\Documents\\Mes Applications\\tsf\\TSF_Test\\TSF_Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Benja\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Benja\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Benja\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Benja\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

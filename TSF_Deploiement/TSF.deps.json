@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TSF/1.0.0": {
+        "dependencies": {
+          "TSF_Models": "1.0.0"
+        },
+        "runtime": {
+          "TSF.dll": {}
+        }
+      },
+      "TSF_Models/1.0.0": {
+        "runtime": {
+          "TSF_Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TSF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TSF_Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

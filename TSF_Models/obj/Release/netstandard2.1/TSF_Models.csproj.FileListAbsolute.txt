@@ -1,0 +1,9 @@
+C:\Users\Benja\OneDrive\Bureau\Projet\App\TSF_Models\bin\Release\netstandard2.1\TSF_Models.deps.json
+C:\Users\Benja\OneDrive\Bureau\Projet\App\TSF_Models\bin\Release\netstandard2.1\TSF_Models.dll
+C:\Users\Benja\OneDrive\Bureau\Projet\App\TSF_Models\bin\Release\netstandard2.1\TSF_Models.pdb
+C:\Users\Benja\OneDrive\Bureau\Projet\App\TSF_Models\obj\Release\netstandard2.1\TSF_Models.csprojAssemblyReference.cache
+C:\Users\Benja\OneDrive\Bureau\Projet\App\TSF_Models\obj\Release\netstandard2.1\TSF_Models.AssemblyInfoInputs.cache
+C:\Users\Benja\OneDrive\Bureau\Projet\App\TSF_Models\obj\Release\netstandard2.1\TSF_Models.AssemblyInfo.cs
+C:\Users\Benja\OneDrive\Bureau\Projet\App\TSF_Models\obj\Release\netstandard2.1\TSF_Models.csproj.CoreCompileInputs.cache
+C:\Users\Benja\OneDrive\Bureau\Projet\App\TSF_Models\obj\Release\netstandard2.1\TSF_Models.dll
+C:\Users\Benja\OneDrive\Bureau\Projet\App\TSF_Models\obj\Release\netstandard2.1\TSF_Models.pdb

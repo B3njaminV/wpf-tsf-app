@@ -1,0 +1,57 @@
+C:\Users\Benja\OneDrive\Bureau\Projet\App\TSF_Models\bin\Debug\netstandard2.1\TSF_Models.deps.json
+C:\Users\Benja\OneDrive\Bureau\Projet\App\TSF_Models\bin\Debug\netstandard2.1\TSF_Models.dll
+C:\Users\Benja\OneDrive\Bureau\Projet\App\TSF_Models\bin\Debug\netstandard2.1\TSF_Models.pdb
+C:\Users\Benja\OneDrive\Bureau\Projet\App\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.csprojAssemblyReference.cache
+C:\Users\Benja\OneDrive\Bureau\Projet\App\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.AssemblyInfoInputs.cache
+C:\Users\Benja\OneDrive\Bureau\Projet\App\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.AssemblyInfo.cs
+C:\Users\Benja\OneDrive\Bureau\Projet\App\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.csproj.CoreCompileInputs.cache
+C:\Users\Benja\OneDrive\Bureau\Projet\App\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.dll
+C:\Users\Benja\OneDrive\Bureau\Projet\App\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.pdb
+C:\Users\Benja\Documents\MesApps\TSF\TSF_Models\bin\Debug\netstandard2.1\TSF_Models.deps.json
+C:\Users\Benja\Documents\MesApps\TSF\TSF_Models\bin\Debug\netstandard2.1\TSF_Models.dll
+C:\Users\Benja\Documents\MesApps\TSF\TSF_Models\bin\Debug\netstandard2.1\TSF_Models.pdb
+C:\Users\Benja\Documents\MesApps\TSF\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.csproj.AssemblyReference.cache
+C:\Users\Benja\Documents\MesApps\TSF\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.AssemblyInfoInputs.cache
+C:\Users\Benja\Documents\MesApps\TSF\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.AssemblyInfo.cs
+C:\Users\Benja\Documents\MesApps\TSF\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.csproj.CoreCompileInputs.cache
+C:\Users\Benja\Documents\MesApps\TSF\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.dll
+C:\Users\Benja\Documents\MesApps\TSF\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.pdb
+C:\Users\Benja\Desktop\TSF\TSF_Models\bin\Debug\netstandard2.1\TSF_Models.deps.json
+C:\Users\Benja\Desktop\TSF\TSF_Models\bin\Debug\netstandard2.1\TSF_Models.dll
+C:\Users\Benja\Desktop\TSF\TSF_Models\bin\Debug\netstandard2.1\TSF_Models.pdb
+C:\Users\Benja\Desktop\TSF\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.csproj.AssemblyReference.cache
+C:\Users\Benja\Desktop\TSF\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.AssemblyInfoInputs.cache
+C:\Users\Benja\Desktop\TSF\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.AssemblyInfo.cs
+C:\Users\Benja\Desktop\TSF\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.csproj.CoreCompileInputs.cache
+C:\Users\Benja\Desktop\TSF\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.dll
+C:\Users\Benja\Desktop\TSF\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.pdb
+C:\Users\Benja\Documents\Programmes\MesApps\TSF 2.0\TSF_Models\bin\Debug\netstandard2.1\TSF_Models.deps.json
+C:\Users\Benja\Documents\Programmes\MesApps\TSF 2.0\TSF_Models\bin\Debug\netstandard2.1\TSF_Models.dll
+C:\Users\Benja\Documents\Programmes\MesApps\TSF 2.0\TSF_Models\bin\Debug\netstandard2.1\TSF_Models.pdb
+C:\Users\Benja\Documents\Programmes\MesApps\TSF 2.0\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.csproj.AssemblyReference.cache
+C:\Users\Benja\Documents\Programmes\MesApps\TSF 2.0\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benja\Documents\Programmes\MesApps\TSF 2.0\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.AssemblyInfoInputs.cache
+C:\Users\Benja\Documents\Programmes\MesApps\TSF 2.0\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.AssemblyInfo.cs
+C:\Users\Benja\Documents\Programmes\MesApps\TSF 2.0\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.csproj.CoreCompileInputs.cache
+C:\Users\Benja\Documents\Programmes\MesApps\TSF 2.0\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.dll
+C:\Users\Benja\Documents\Programmes\MesApps\TSF 2.0\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.pdb
+C:\Users\Benja\Documents\Mes Applications\wpf-tsf-app\TSF_Models\bin\Debug\netstandard2.1\TSF_Models.deps.json
+C:\Users\Benja\Documents\Mes Applications\wpf-tsf-app\TSF_Models\bin\Debug\netstandard2.1\TSF_Models.dll
+C:\Users\Benja\Documents\Mes Applications\wpf-tsf-app\TSF_Models\bin\Debug\netstandard2.1\TSF_Models.pdb
+C:\Users\Benja\Documents\Mes Applications\wpf-tsf-app\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.csproj.AssemblyReference.cache
+C:\Users\Benja\Documents\Mes Applications\wpf-tsf-app\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benja\Documents\Mes Applications\wpf-tsf-app\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.AssemblyInfoInputs.cache
+C:\Users\Benja\Documents\Mes Applications\wpf-tsf-app\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.AssemblyInfo.cs
+C:\Users\Benja\Documents\Mes Applications\wpf-tsf-app\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.csproj.CoreCompileInputs.cache
+C:\Users\Benja\Documents\Mes Applications\wpf-tsf-app\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.dll
+C:\Users\Benja\Documents\Mes Applications\wpf-tsf-app\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.pdb
+C:\Users\Benja\Documents\Mes Applications\tsf\TSF_Models\bin\Debug\netstandard2.1\TSF_Models.deps.json
+C:\Users\Benja\Documents\Mes Applications\tsf\TSF_Models\bin\Debug\netstandard2.1\TSF_Models.dll
+C:\Users\Benja\Documents\Mes Applications\tsf\TSF_Models\bin\Debug\netstandard2.1\TSF_Models.pdb
+C:\Users\Benja\Documents\Mes Applications\tsf\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.csproj.AssemblyReference.cache
+C:\Users\Benja\Documents\Mes Applications\tsf\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benja\Documents\Mes Applications\tsf\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.AssemblyInfoInputs.cache
+C:\Users\Benja\Documents\Mes Applications\tsf\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.AssemblyInfo.cs
+C:\Users\Benja\Documents\Mes Applications\tsf\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.csproj.CoreCompileInputs.cache
+C:\Users\Benja\Documents\Mes Applications\tsf\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.dll
+C:\Users\Benja\Documents\Mes Applications\tsf\TSF_Models\obj\Debug\netstandard2.1\TSF_Models.pdb
