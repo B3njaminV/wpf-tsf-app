@@ -1,6 +1,6 @@
 <h1 align="center"> TopSerieFilm 👋</h1>
 
-> TSF est une application WPF permettant à ses utilisateurs de stocket et regrouper une multitude de films et séries.
+> TSF est une application WPF permettant à ses utilisateurs de stocker et regrouper une multitude de films et séries.
 
 ### 🏠 [Homepage](https://github.com/B3njaminV/wpf-tsf-app)
 
